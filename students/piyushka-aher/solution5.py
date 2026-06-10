@@ -1,5 +1,4 @@
 #problem 1
-print("Start small. Ship something.")
 def rectangle(l,b):
     area=l*b
     return area
